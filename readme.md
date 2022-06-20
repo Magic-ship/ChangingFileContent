@@ -1,7 +1,11 @@
 Introduction
   This module is for changing all files of folder you selected depending on your changing requirement about file contents and file name.
 
-ex: <img src="https://github.com/Magic-ca/ChangingFileContent/blob/master/after-changing.PNG" />
+ex: 
+-------------------------BEFORE------------------------
+<img src="https://github.com/Magic-ca/ChangingFileContent/blob/master/before-changing.PNG" />
+-------------------------AFTER-------------------------
+<img src="https://github.com/Magic-ca/ChangingFileContent/blob/master/after-changing.PNG" />
 
 1. Your files must be copy in "complete" folder
 2. Set up your changing requirement in function generateImageName or customize func "generateImageName" depending on your requirement. 
