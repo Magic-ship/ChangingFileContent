@@ -1,6 +1,5 @@
 const fs = require("fs");
 const path = require("path");
-const { getEnabledCategories } = require("trace_events");
 
 function generateImageName(oldName) {
   let addName = "0";
